@@ -63,9 +63,6 @@ LAB2_RootingAndroid/
 ├── evidence/
 │   └── logcat_root_check.txt
 │
-├── rapport/
-│   └── rapport_lab2_rooting.md
-│
 ├── screenshots/
 │   ├── 01_avd_clean_home.png
 │   ├── 02_adb_devices.png
