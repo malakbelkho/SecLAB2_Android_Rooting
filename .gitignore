@@ -1,0 +1,19 @@
+﻿# Windows
+Thumbs.db
+desktop.ini
+
+# Android Studio / Gradle generated files
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+
+# Logs that are not evidence
+*.log
+
+# Keep lab evidence
+!evidence/logcat_root_check.txt
+!app/app-debug.apk
+!screenshots/
+!rapport/
